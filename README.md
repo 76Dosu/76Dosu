@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=디발자 김희찬입니다.)](https://git.io/typing-svg)👋
-
 <!--
 **76Dosu/76Dosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
