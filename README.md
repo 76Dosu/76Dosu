@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ABDCFF,100:0396FF&text=안녕하세요!%20디발자%20김희찬입니다%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontColor=FFFFFF&fontAlign=30&height=250)
+<br>
+<h3> 안녕하세요 디발자 김희찬입니다🤚 </h3>
+  <p>
+    성실함으로 배우고, 습득력으로 행동합니다. <br>
+  </p>
+
+<h1 align="center"></h1>
 
 <h3> ⚒️ Tech Stack ⚒️ </h3>
 <h4>- Lanugage</h4>
@@ -25,6 +31,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=76Dosu&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=76Dosu)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ABDCFF,100:0396FF&height=150&section=footer" />
 
