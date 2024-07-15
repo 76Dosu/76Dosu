@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=안녕하세요%20디발자%20김희찬입니다%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&text=안녕하세요%20디발자%20김희찬입니다%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3> ⚒️ Tech Stack ⚒️ </h3>
 <p>
@@ -23,5 +23,5 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=76Dosu)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=footer" />
 
