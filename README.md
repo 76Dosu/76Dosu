@@ -1,4 +1,4 @@
-## Hi there 👋
+## 디발자 김희찬입니다. 👋
 
 <!--
 **76Dosu/76Dosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
