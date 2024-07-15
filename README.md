@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>자주 사용하는 언어</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=76Dosu)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
-<p>깃허브 등급</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=76Dosu&show_icons=true&theme=radical)
