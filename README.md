@@ -21,12 +21,13 @@
 <h4>- Tools</h4>
 <p>
 <img src="https://img.shields.io/badge/VSCode-249EEF?style=flat-square&logo=VSCode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=Gitkraken&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-FF7668?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender3D-E87D0D?style=flat-square&logo=Blender&logoColor=black"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/>
+  <br>
+<img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=Gitkraken&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 <br>
 
